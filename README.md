@@ -1,5 +1,5 @@
 # ACoM
-![RogowskiBuilding](https://github.com/ACoM-RWTH/.github/assets/17232977/5339156c-515f-4771-b061-1c9ecdf2aca2)
+![RogowskiBuilding](https://github.com/ACoM-RWTH/.github/assets/17232977/5339156c-515f-4771-b061-1c9ecdf2aca2?height=150&classes=float-md-end,ms-md-3  "RogowskiBuilding")
 
 Welcome to the GitHub Page of the **[Research Lab for Applied and Computational Mathematics](https://www.acom.rwth-aachen.de)** at [RWTH Aachen University](https://www.rwth-aachen.de). 
 

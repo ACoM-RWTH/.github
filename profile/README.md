@@ -1,7 +1,7 @@
   <img style="float:left;height:80px;margin-right:10px" 
     src="https://github.com/ACoM-RWTH/.github/assets/17232977/807466ff-9e15-437e-a128-86e02ebbc6fe">
 
-Welcome to the GitHub Page of the **[Research Lab for Applied and Computational Mathematics](https://www.acom.rwth-aachen.de)** at [RWTH Aachen University](https://www.rwth-aachen.de). 
+Welcome to the GitHub Page of the **[Research Lab for Applied and Computational Mathematics (ACoM)](https://www.acom.rwth-aachen.de)** at [RWTH Aachen University](https://www.rwth-aachen.de). 
 
 ### Mission
 
